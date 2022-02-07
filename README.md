@@ -9,5 +9,5 @@ Pomodoro Timer built with React.js, using hooks like:
 
 # Demo:
 
-[example](https://media.giphy.com/media/jIMZWE4XxENjSo2WfZ/giphy.gif)
+![example](https://media.giphy.com/media/jIMZWE4XxENjSo2WfZ/giphy.gif)
 
