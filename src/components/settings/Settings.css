@@ -1,0 +1,31 @@
+.settings{
+    text-align: left;
+}
+
+label{
+    color: #ffffff;
+    display: block;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.slider{
+    height: 40px;
+    border: 2px solid #03A9F4;
+    border-radius: 20px;
+}
+
+.thumb{
+    background-color: #03A9F4;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.slider.green{
+    border: 2px solid #CDDC39;
+}
+.slider.green .thumb{
+    background-color: #CDDC39;
+}

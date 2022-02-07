@@ -1,0 +1,10 @@
+button{
+    background-color: transparent;
+    color: #ffffff;
+    border: 0;
+    display: inline-block;
+    width: 3rem;
+    margin: 1rem;
+    font-size: 30px;
+    cursor: pointer;
+}
